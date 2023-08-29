@@ -61,4 +61,4 @@ According to the time series analysis of data for this particular dataset we fou
 
 According to the volume chart for particular this data set 2016-2017 gives the littlebit of more profit to investments in the stocks.
 
-After 2017 to upcoming year stocks will be pluctuated
+After 2017 to upcoming year stocks will be fluctuated
